@@ -76,15 +76,6 @@
       {
         "@type": "Link",
         "label": {
-          "@value": "ThuanCapital"
-        },
-        "uri": {
-          "@value": "https://thuancapital.com/"
-        }
-      },
-      {
-        "@type": "Identity",
-        "label": {
           "@value": "TAVN Viet Nam Stake Pool - Stake pool run by DevOps Engineer and ThuanCapital"
         },
         "uri": {
