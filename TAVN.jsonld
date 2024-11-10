@@ -58,7 +58,7 @@
   "body": {
     "doNotList": false,
     "givenName": {
-      "@value": "TAVN"
+      "@value": "tavn"
     },
     "motivations": {
       "@value": ""
@@ -76,16 +76,16 @@
       {
         "@type": "Link",
         "label": {
-          "@value": "DRep - TAVN Viet Nam Stake Pool"
+          "@value": "ThuanCapital"
         },
         "uri": {
-          "@value": "https://adavn.com/"
+          "@value": "https://thuancapital.com/"
         }
       },
       {
         "@type": "Identity",
         "label": {
-          "@value": "DRep - TAVN Viet Nam Stake Pool"
+          "@value": "TAVN Viet Nam Stake Pool - Stake pool run by DevOps Engineer and ThuanCapital"
         },
         "uri": {
           "@value": "https://adavn.com/"
